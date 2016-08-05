@@ -1,0 +1,26 @@
+_repo: The-Life-of-Captain-Matthew-Flinders_7304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Ernest, Sir
+    birthdate: 1868
+    deathdate: 1939
+    gutenberg_agent_id: '1406'
+    url: http://www.gutenberg.org/2009/agents/1406
+description: Brief references to Aboriginal Australians throughout.
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcsh 'Flinders, Matthew, 1774-1814'
+- GITenberg
+title: The Life of Captain Matthew Flinders
+url: http://www.gutenberg.org/ebooks/7304
